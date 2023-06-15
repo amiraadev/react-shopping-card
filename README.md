@@ -1,3 +1,7 @@
+# live preview
+
+https://amirticha.github.io/react-shopping-card/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
