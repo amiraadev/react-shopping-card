@@ -11,7 +11,7 @@ function App() {
     <Router>
       <Header />
       <Routes>
-         <Route path='/' exact Component={Home}/>
+         <Route path='/react-shopping-card' exact Component={Home}/>
          <Route path='/card' exact Component={Card}/>
       </Routes>
     </Router>
